@@ -4,12 +4,11 @@ Laman GitHub Pages dan pembentangan bagi malam **16 Oktober 2026**. Bahasa Melay
 
 ## Kandungan
 
-- `index.html`: laman acara, lima tema, ucapan penuh, jadual tindakan, rujukan dan aset.
+- `index.html`: laman acara, lima tema, ucapan penuh, rujukan dan aset.
 - `deck.html`, `deck.css`, `deck.js`: dek interaktif 11 slaid, skrin penuh, keyboard, nota dan paparan penyampai.
 - `slides-data.js`: kandungan slaid yang dimuatkan pelayar; **sunting fail ini untuk mengubah slaid**.
 - `slides.json`: salinan data untuk rujukan/pertukaran; jika menyunting, segerakkan dengan `slides-data.js`.
 - `UCAPAN.md`: teks ucapan 8–10 minit, bergantung pada tempo.
-- `PELAN-JKP.md`: panduan tindakan 30 hari dengan pemilik tugas dan bukti hasil.
 - `SUMBER.md`: sumber rasmi, konteks pengesahan dan perkara belum disahkan.
 - `assets/`: kelima-lima aset asal, tanpa perubahan identiti logo.
 - `.nojekyll`: memastikan fail statik disajikan terus.
@@ -76,7 +75,6 @@ Buka `http://127.0.0.1:8080`. Hentikan dengan Ctrl+C. Gunakan pelayar dan origin
 3. Lima tema ialah olahan tema perkongsian acara, bukan transkrip TNC. Nyatakan pemisahan fakta sumber dan huraian acara secara jelas.
 4. Employer Reputation ialah reputasi institusi dalam kalangan majikan. Jangan samakan dengan kadar kebolehpasaran graduan atau menjanjikan kenaikan skor QS melalui kegiatan JKP.
 5. **Ulul Albab dan Kolej Akademia ialah dua inisiatif berasingan** dalam perkongsian acara. Jangan mengarang modul, syarat, jadual atau dakwaan pelaksanaan di KTR. Sesi belajar rakan sebaya ialah usaha JKP sendiri.
-6. Pelan 30 hari dan sasaran mesti dibincangkan dengan pengurusan/penasihat. Sesuaikan nama biro mengikut struktur sebenar.
 7. Sunting teks laman dalam `index.html` dan teks ucapan dalam `UCAPAN.md` bersama-sama untuk konsistensi. Slaid disunting dalam `slides-data.js`; segerakkan `slides.json`. Jangan ubah nama aset tanpa mengemas kini semua pautan.
 8. Kekalkan fail logo asal. Logo 01 digunakan pada latar cerah, logo 02 pada dek marun; logo 03 dan pratonton disediakan sebagai bahan rujukan. PDF asal boleh dimuat turun. Tiada logo UTM tambahan dicipta.
 9. Semua pautan aset relatif supaya berfungsi di bawah sublaluan repositori GitHub Pages. Tiada CDN atau font luar diperlukan.
@@ -89,7 +87,7 @@ Buka `http://127.0.0.1:8080`. Hentikan dengan Ctrl+C. Gunakan pelayar dan origin
 - Dek boleh bergerak melalui butang, pemilih dan keyboard; tidak melepasi slaid pertama/terakhir.
 - F/Esc, nota N, pop-up penyampai dan penyegerakan berfungsi pada pelayar acara.
 - Nota peribadi tidak berada pada skrin projektor. Jika satu skrin sahaja, tutup nota ketika persembahan.
-- Ucapan penuh, pelan dan sumber boleh dicapai serta dimuat turun.
+- Ucapan penuh dan sumber boleh dicapai serta dimuat turun.
 - Sumber rasmi dipaut terus dan perkara belum disahkan dilabelkan.
 - Semua paparan berfungsi tanpa rangkaian selepas fail dimuat turun; sumber luar memerlukan internet. Tiada service worker, jadi jangan menganggap laman yang pernah dibuka sentiasa tersedia luar talian.
 
@@ -103,4 +101,4 @@ Aset dibekalkan pengguna dan disertakan untuk bahan acara ini. Tiada lesen bahar
 
 ## Kemas kini persembahan
 
-Logo KTR dipaparkan lebih besar di kiri pada laman utama dan setiap slaid. Ruang lutsinar pada imej diatasi melalui paparan CSS, tanpa mengubah fail logo asal. Bahasa ucapan dan slaid dilunakkan. Dua slaid tentang 30 hari pertama dan hasil kem telah dikeluarkan; dek kini mengandungi 11 slaid. Panduan 30 hari kekal sebagai bahan sokongan di laman utama.
+Logo KTR dipaparkan lebih besar di kiri pada laman utama dan setiap slaid. Ruang lutsinar pada imej diatasi melalui paparan CSS, tanpa mengubah fail logo asal. Bahasa ucapan dan slaid dilunakkan. Dek mengandungi 11 slaid. Kandungan laman web dan fail sokongan diselaraskan dengan pembentangan.
