@@ -2,7 +2,7 @@
 
 Semakan: 16 Oktober 2026.
 
-Lima tema berasal daripada catatan pengguna. Tiada transkrip rasmi amanat disertakan; olahan ini bukan petikan verbatim atau pengesahan bahawa semua huraian ialah arahan TNC.
+Lima tema disusun daripada perkara yang dikongsikan oleh penyampai untuk acara ini. Huraian ialah olahan bagi konteks kolej, bukan transkrip atau petikan langsung ucapan rasmi TNC.
 
 ## QS • Metodologi QS World University Rankings
 
@@ -30,7 +30,7 @@ Menyenaraikan “Kolej Akademia Program: The Ultimate IoT Innovation Hackathon 2
 
 ## Perkara belum disahkan
 
-Skop, modul, jadual, syarat dan pelaksanaan Ulul Albab serta Kolej Akademia dalam amanat ini belum disahkan. Jangan menganggap kedua-duanya satu program. Tiada dakwaan bahawa KTR telah melaksanakannya. Pelan 30 hari, sasaran dan pembahagian biro ialah cadangan JKP, bukan KPI rasmi UTM.
+Skop, modul, jadual, syarat dan pelaksanaan Ulul Albab serta Kolej Akademia dalam amanat ini belum disahkan. Jangan menganggap kedua-duanya satu program. Tiada dakwaan bahawa KTR telah melaksanakannya. Panduan 30 hari, sasaran dan pembahagian biro ialah bahan perbincangan JKP bersama penasihat, bukan KPI rasmi UTM.
 
 Istilah JKP (Jawatankuasa Kolej Pelajar) disahkan oleh pengguna pada 16 Oktober 2026 sebagai istilah semasa; Jawatankuasa Mahasiswa Kolej (JKM) ialah istilah lama.
 

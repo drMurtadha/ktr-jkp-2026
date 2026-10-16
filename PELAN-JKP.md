@@ -1,8 +1,8 @@
-# Cadangan pelan tindakan JKP • 30 hari
+# Panduan tindakan JKP • 30 hari
 
-Untuk dipersetujui bersama pengurusan dan penasihat. Hari pertama bermula selepas kem mengikut persetujuan pasukan. Semua sasaran ialah cadangan, bukan KPI rasmi UTM.
+Untuk dipersetujui bersama pengurusan dan penasihat. Hari pertama bermula selepas kem mengikut persetujuan pasukan. Panduan ini membantu perbincangan pasukan dan bukan KPI rasmi UTM.
 
-| Tempoh | Fokus | Penanggungjawab cadangan | Tindakan | Bukti / sasaran cadangan |
+| Tempoh | Fokus | Penanggungjawab | Tindakan | Perkara yang boleh diusahakan |
 |---|---|---|---|---|
 | Hari 1–7 | Dengar & tetapkan asas | Pengerusi, setiausaha dan semua biro | Dengar isu penghuni; tetapkan pemilik tugas, piagam adab dan keadaan awal kebersihan. | Satu pelan bersama, senarai isu berkeutamaan dan rekod keadaan awal. |
 | Hari 8–14 | Mulakan rutin | Biro akademik, kerohanian dan kebersihan | Mulakan belajar rakan sebaya, kegiatan surau yang dipersetujui dan gotong-royong. | Satu sesi belajar, satu kegiatan surau dan satu tindakan kebersihan; rekod penyertaan secara agregat. |
