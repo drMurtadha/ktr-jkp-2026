@@ -18,6 +18,7 @@ document.addEventListener('keydown',e=>{if(e.ctrlKey||e.metaKey||e.altKey||/^(IN
 window.addEventListener('hashchange',()=>show(fromHash()));
 if(channel)channel.onmessage=e=>{if(e.data.type==='slide'&&Number.isInteger(e.data.index))show(e.data.index,false);else if(e.data.type==='request'&&!presenter)channel.postMessage({type:'slide',index:current});};
 $('print').onclick=()=>window.print();
+document.querySelector('.controls').addEventListener('click',e=>{if(e.target.matches('button'))e.target.blur()});$('jump').addEventListener('change',e=>e.target.blur());
 // Build a separate print-only view, including notes and every slide.
 slides.forEach((s,i)=>{const el=document.createElement('section');el.className='print-slide';el.style.display='none';const h=document.createElement('h2');h.textContent=(i+1)+' / '+slides.length+' • '+s.section;const title=document.createElement('h1');title.textContent=s.title;const list=document.createElement('ul');s.points.forEach(t=>{const li=document.createElement('li');li.textContent=t;list.append(li)});const note=document.createElement('p');note.textContent='Nota penyampai: '+s.notes;el.append(h,title,list,note);document.body.append(el)});
 const style=document.createElement('style');style.textContent='@media print{.print-slide{display:block!important}}';document.head.append(style);

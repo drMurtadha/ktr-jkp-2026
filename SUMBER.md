@@ -32,6 +32,6 @@ Menyenaraikan “Kolej Akademia Program: The Ultimate IoT Innovation Hackathon 2
 
 Skop, modul, jadual, syarat dan pelaksanaan Ulul Albab serta Kolej Akademia dalam amanat ini belum disahkan. Jangan menganggap kedua-duanya satu program. Tiada dakwaan bahawa KTR telah melaksanakannya. Pelan 30 hari, sasaran dan pembahagian biro ialah cadangan JKP, bukan KPI rasmi UTM.
 
-Istilah JKP mengikut nama acara yang diberikan pengguna. Sesetengah laman UTM menggunakan istilah Jawatankuasa Mahasiswa Kolej; sahkan istilah pentadbiran semasa dengan pihak kolej sebelum penerbitan rasmi.
+Istilah JKP (Jawatankuasa Kolej Pelajar) disahkan oleh pengguna pada 16 Oktober 2026 sebagai istilah semasa; Jawatankuasa Mahasiswa Kolej (JKM) ialah istilah lama.
 
 Aset logo dibekalkan pengguna; fail asal dikekalkan. Pakej ini ialah bahan acara, bukan portal rasmi UTM.
